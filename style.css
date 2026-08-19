@@ -673,6 +673,20 @@ text-align: center;
 }
 
 
+/*==================================================
+            MOBILE Heading 2
+==================================================*/
+
+@media (max-width: 768px) {
+  .buttons h2 {
+    color: white;
+    display: block;
+    position; relative;
+    z-index: 10;
+    margin-bottom: 30px;
+  }
+}
+
 
 
 

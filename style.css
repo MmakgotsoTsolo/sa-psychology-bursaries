@@ -78,7 +78,7 @@ nav a {
     transition: 0.3s ease;
 }
 nav a:hover {
-    color: var(--blue);
+    color: var(--white);
 }
 
 /*==================================
@@ -299,6 +299,7 @@ info-page nav{
 }
 .info-page nav a:hover{
     background-color: var(--blue-hover);
+    color: var(--white);
     transform: translateY(-3px);
 }
 info.page main{

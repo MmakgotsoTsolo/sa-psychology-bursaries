@@ -119,6 +119,11 @@ p {
     padding: 80px 20px;
     text-align: center;
 }
+.buttons h2 {
+     color: var(--white);
+     text-align: center;
+  margin-bottom: 30px;
+}
 
 /*==================================
              FUNDING CARDS     

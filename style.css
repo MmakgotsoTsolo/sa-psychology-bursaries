@@ -687,6 +687,15 @@ text-align: center;
   }
 }
 
+/*==================================================
+        Undergraduate and Postgraduate buttons
+==================================================*/
+
+.info-page nav a:hover {
+  color: white;
+  transform: translateY(-3px);
+}
+
 
 
 

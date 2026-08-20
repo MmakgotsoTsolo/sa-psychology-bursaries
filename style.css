@@ -682,7 +682,7 @@ text-align: center;
   .buttons h2 {
     color: white;
     display: block;
-    position; relative;
+    position: relative;
     z-index: 10;
     margin-bottom: 30px;
   }

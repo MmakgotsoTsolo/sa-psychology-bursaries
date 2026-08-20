@@ -734,3 +734,17 @@ text-align: center;
         hyphens: none;
     }
 }
+
+/*==================================================
+            HOME BUTTON ANIMATION
+==================================================*/
+
+.page-home {
+  position: relative;
+  transition: transform 0.3s ease, background-color 0.3s ease !important;
+}
+
+.page-home:hover {
+   transform: translateY (-5px) !important;
+}
+    

@@ -673,30 +673,64 @@ text-align: center;
 
 }
 
+/*==================================================
+            FUNDING RESOURCES CARD TEXT
+==================================================*/
+.resource-card h3,
+.resource-card p {
+    margin-right: 100px;
+}
+
 
 /*==================================================
-            MOBILE Heading 2
+            INNER PAGE HOME BUTTON
 ==================================================*/
+.page-home {
+    color: var(--white) !important;
+    background-color: var(--blue);
+    display: inline-block;
+    padding: 12px 22px;
+    border-radius: 80px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.page-home:hover {
+    color: var(--white) !important;
+    background-color: var(--blue-hover);
+    transform: translateY(-3px);
+}
 
+/*==================================================
+            FUNDING RESOURCES INTRO
+==================================================*/
+.funding-intro {
+    text-align: center;
+}
+
+/*==================================================
+            MOBILE FUNDING RESOURCES INTRO
+==================================================*/
 @media (max-width: 768px) {
-  .buttons h2 {
-    color: white;
-    display: block;
-    position: relative;
-    z-index: 10;
-    margin-bottom: 30px;
-  }
+    .provider-funding-section .funding-intro {
+        width: 100%;
+        max-width: 850px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center !important;
+    }
 }
 
 /*==================================================
-        Undergraduate and Postgraduate buttons
+            FUNDING RESOURCES MOBILE TEXT
 ==================================================*/
-
-.info-page nav a:hover {
-  color: white;
-  transform: translateY(-3px);
+@media (max-width: 768px) {
+    .resource-card p {
+        margin-right: 0;
+        width: 100%;
+        max-width: none;
+        word-wrap: normal;
+        overflow-wrap: normal;
+        word-break: normal;
+        hyphens: none;
+    }
 }
-
-
-
-

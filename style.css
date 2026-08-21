@@ -748,3 +748,9 @@ text-align: center;
    transform: translateY (-5px) !important;
 }
     
+/*==================================================
+            SECTION HEADING
+==================================================*/
+.section-heading {
+        font-weight: 700;
+}

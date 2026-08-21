@@ -265,7 +265,7 @@ a {
       margin-top: 10px;
       font-size: 1.1rem;
       color: #3f3f3f;
-      font-weight: 600px;
+      font-weight: 500px !important;
 }
 .logo-title p{
        margin: o;

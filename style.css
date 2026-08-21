@@ -271,8 +271,9 @@ a {
        margin: o;
 }
 .tagline {
-   color: #3f3f3f
-  font-weight: 500;
+   color: #3f3f3f !important;
+  font-weight: 500 !important;
+  -webkit-text-stroke : 0.3px;
 }
 /*====================================
           INFORMATION PAGES

@@ -261,7 +261,7 @@ a {
 .logo-title h1{
        margin-bottom: 10px;
 }
-.logo-title .tagline{
+.tagline{
       margin-top: 10px;
       font-size: 1.1rem;
       color: var(--dark-text)  ;

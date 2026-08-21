@@ -264,8 +264,8 @@ a {
 .logo-title .tagline{
       margin-top: 10px;
       font-size: 1.1rem;
-      color: var(--dark-text);
-      font-weight: 500px;
+      color: #3f3f3f;
+      font-weight: 600px;
 }
 .logo-title p{
        margin: o;

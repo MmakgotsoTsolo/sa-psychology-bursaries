@@ -261,16 +261,18 @@ a {
 .logo-title h1{
        margin-bottom: 10px;
 }
-.tagline{
+.logo .tagline{
       margin-top: 10px;
       font-size: 1.1rem;
       color: var(--dark-text);
-      font-weight: 700px !important;
+      font-weight: 500px !important;
 }
 .logo-title p{
        margin: o;
 }
-
+.tagline {
+  font-weight: 600;
+}
 /*====================================
           INFORMATION PAGES
 ====================================*/

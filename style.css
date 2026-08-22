@@ -373,8 +373,8 @@ img{
      }
 
      .card{
-        margin: 20px 15px;
-        padding:25px 20px;
+        margin: 20px auto;
+        padding: 25px 20px;
      }
      
      /*Make headings fit the phone*/

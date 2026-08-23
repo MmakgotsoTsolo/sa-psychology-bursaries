@@ -774,4 +774,12 @@ text-align: center;
         margin-right: 10px;
     }
 }
- 
+
+/*==================================================
+                SECTION HEADING
+==================================================*/
+
+.section-heading {
+  font-weight: 700;
+}
+

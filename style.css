@@ -783,3 +783,22 @@ text-align: center;
   font-weight: 700;
 }
 
+/*==================================================
+                ARTICLES PAGE BRAIN ICON
+==================================================*/
+.articles-page .funding-card {
+    background-size: 40px
+}
+
+/*==================================================
+       ARTICLES PAGE MOBILE BRAIN ICON
+==================================================*/
+@media (max-width: 768px) {
+
+    .articles-page .funding-card{
+        background-size: 30px;
+    }
+
+    }
+
+
